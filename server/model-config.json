@@ -38,5 +38,17 @@
   "FruitShop": {
     "dataSource": "db",
     "public": true
+  },
+  "Review": {
+    "dataSource": "mongoDs",
+    "public": true
+  },
+  "Reviewer": {
+    "dataSource": "mongoDs",
+    "public": true
+  },
+  "CoffeeShop": {
+    "dataSource": "postgresql",
+    "public": true
   }
 }

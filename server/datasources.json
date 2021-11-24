@@ -12,5 +12,17 @@
     "name": "postgresql",
     "user": "postgres",
     "connector": "postgresql"
+  },
+  "mongoDs": {
+    "host": "cluster0.5imn6.mongodb.net",
+    "port": 80,
+    "url": "mongodb+srv://hai:VxY1rxs0mrkH3oFu@cluster0.5imn6.mongodb.net/coffeeshop?retryWrites=true&w=majority",
+    "database": "coffeeshop",
+    "password": "VxY1rxs0mrkH3oFu",
+    "name": "mongoDs",
+    "user": "hai",
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "connector": "mongodb"
   }
 }
